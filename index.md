@@ -1,5 +1,5 @@
 ## Rwanda E-mobility report
-# This report is categorized 5 categories including
+# This report is categorized in 5 categories including
 - Types of EVs
 - Business models in SSA
 - Utility death spiral
