@@ -89,19 +89,19 @@ Long recharging times and high costs for batteries
 In Sacramento, California few consumers are engaged with PEVs, few have considered purchasing one, many cannot name a single BEV or PHEV presently for sale, and many are not aware of incentives to buy or advertising of them. Something REG or other stakeholders could look into [9].
 [10] poses physical/operational constraint on the distribution infrastructure. The first highlighted case is when several electric vehicles are charging on a single transformer or branch that was initially designated for a number of residences - this could affect power stability in terms of voltage and current phase imbalances. The second case is charging of electric vehicles at peak times of electricity consumption - this could overload the service dropervice drop, the local distribution transformer, feeders or substation transformer. The recommendation are then an upgrade of the power system to prevent the above mentioned and the use of incentives for off-peak charging.
  
-References:
+**References:**
 
-<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536. https://doi.org/10.1002/wene.160.<br> 
+<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536.<a href=" https://doi.org/10.1002/wene.160 "> https://doi.org/10.1002/wene.160</a> .<br> 
 [2] Hutchinson, J and Gibson, Emma and Phaweni, Thembani and Snyman, Dillon and Schmidt, Jeroen and Newman, Despina and Fhulufhelo, Ramphabana and Sam, Shalotte and Leope, Masilo and Makobela, Shireen et al. (2016), Utility Pricing Death Spiral. Mathematics in Industry Study Group, p. 53--71.<br>
-
-[3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,Volume 61, 2019, 100959, ISSN 0957-1787, https://doi.org/10.1016/j.jup.2019.100959.<br>
+[3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,Volume 61, 2019, 100959, ISSN 0957-1787,<a href=" https://doi.org/10.1016/j.jup.2019.100959 "> https://doi.org/10.1016/j.jup.2019.100959</a> .<br>
  [4] T. Beaufils, P. Pineaun, et al., Structures tarifaires et spirale de la mort: Etat des lieux des pratiques de tarification dans la distribution d'electricite residentielle, 2018, CIRANO, Centre interuniversitaire de recherche en analyse des organisation.<br>
-[5] Kenneth W. Costello, Ross C. Hemphill, Electric Utilities’ ‘Death Spiral’: Hyperbole or Reality?, The Electricity Journal, Volume 27, Issue 10, 2014, Pages 7-26, ISSN 1040-6190,https://doi.org/10.1016/j.tej.2014.09.011.<br>
-[6] M. McPherson, M. Ismail, D. Hoornweg, M. Metcalfe, Planning for variable renewable energy and electric vehicle integration under varying degrees of decentralization: A case study in Lusaka, Zambia, Energy, Volume 151, 2018, Pages 332-346, ISSN 0360-5442,https://doi.org/10.1016/j.energy.2018.03.073.<br>
+[5] Kenneth W. Costello, Ross C. Hemphill, Electric Utilities’ ‘Death Spiral’: Hyperbole or Reality?, The Electricity Journal, Volume 27, Issue 10, 2014, Pages 7-26, ISSN 1040-6190,<a href=" https://doi.org/10.1016/j.tej.2014.09.011 ">https://doi.org/10.1016/j.tej.2014.09.011</a>.<br>
+[6] M. McPherson, M. Ismail, D. Hoornweg, M. Metcalfe, Planning for variable renewable energy and electric vehicle integration under varying degrees of decentralization: A case study in Lusaka, Zambia, Energy, Volume 151, 2018, Pages 332-346, ISSN 0360-5442,<a href="https://doi.org/10.1016/j.energy.2018.03.073
+ ">https://doi.org/10.1016/j.energy.2018.03.073</a>.<br>
 [7] Mahmud, Khizir and Town, Graham E, A review of computer tools for modeling electric vehicle energy requirements and their impact on power distribution networks, Applied Energy, 172, p.337--359, 2016, Elsevier.<br>
-[8] E-Mobility Solutions for Rural Sub-Saharan Africa: Leveraging Economic, Social and Environmental Change, https://www.siemens-stiftung.org/<br>
-[9] S.Hardman, K.S. Kurani, and D. Chakrabar "The usual policy levers are not engaging consumers in the transition to electric vehicles: a case of Sacramento, California," Environmental Research Communications, vol. 2, Aug 2020.Available: IOPSCIENCE, https://iopscience.iop.org/article/10.1088/2515-7620/aba943.<br>
-[10] National Research Council, 2015a. Overcoming barriers to deployment of plug-in electric vehicles, Overcoming Barriers to Deployment of Plug-in Electric Vehicles. https://doi.org/10.17226/21725.
+[8] E-Mobility Solutions for Rural Sub-Saharan Africa: Leveraging Economic, Social and Environmental Change,<a href="https://www.siemens-stiftung.org/ ">https://www.siemens-stiftung.org/</a> <br>
+[9] S.Hardman, K.S. Kurani, and D. Chakrabar "The usual policy levers are not engaging consumers in the transition to electric vehicles: a case of Sacramento, California," Environmental Research Communications, vol. 2, Aug 2020.Available: IOPSCIENCE,<a href="https://iopscience.iop.org/article/10.1088/2515-7620/aba943 ">https://iopscience.iop.org/article/10.1088/2515-7620/aba943</a>.<br>
+[10] National Research Council, 2015a. Overcoming barriers to deployment of plug-in electric vehicles, Overcoming Barriers to Deployment of Plug-in Electric Vehicles.<a href="https://doi.org/10.17226/21725 ">https://doi.org/10.17226/21725</a> .
 </p>
 
 
