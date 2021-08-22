@@ -91,10 +91,10 @@ In Sacramento, California few consumers are engaged with PEVs, few have consider
  
 References:
 
-[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536. https://doi.org/10.1002/wene.160.
-[2] Hutchinson, J and Gibson, Emma and Phaweni, Thembani and Snyman, Dillon and Schmidt, Jeroen and Newman, Despina and Fhulufhelo, Ramphabana and Sam, Shalotte and Leope, Masilo and Makobela, Shireen et al. (2016), Utility Pricing Death Spiral. Mathematics in Industry Study Group, p. 53--71. 
+[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536. https://doi.org/10.1002/wene.160. <b>
+[2] Hutchinson, J and Gibson, Emma and Phaweni, Thembani and Snyman, Dillon and Schmidt, Jeroen and Newman, Despina and Fhulufhelo, Ramphabana and Sam, Shalotte and Leope, Masilo and Makobela, Shireen et al. (2016), Utility Pricing Death Spiral. Mathematics in Industry Study Group, p. 53--71. <b>
 [3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,
-Volume 61, 2019, 100959, ISSN 0957-1787, https://doi.org/10.1016/j.jup.2019.100959.
+Volume 61, 2019, 100959, ISSN 0957-1787, https://doi.org/10.1016/j.jup.2019.100959.<b>
  [4] T. Beaufils, P. Pineaun, et al., Structures tarifaires et spirale de la mort: Etat des lieux des pratiques de tarification dans la distribution d'electricite residentielle, 2018, CIRANO, Centre interuniversitaire de recherche en analyse des organisation.
 [5] Kenneth W. Costello, Ross C. Hemphill, Electric Utilities’ ‘Death Spiral’: Hyperbole or Reality?, The Electricity Journal, Volume 27, Issue 10, 2014, Pages 7-26, ISSN 1040-6190,
 https://doi.org/10.1016/j.tej.2014.09.011.
