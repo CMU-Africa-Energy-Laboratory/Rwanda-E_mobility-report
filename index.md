@@ -91,11 +91,11 @@ In Sacramento, California few consumers are engaged with PEVs, few have consider
  
 **References:**
 
-<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536.<a href=" https://doi.org/10.1002/wene.160 "> https://doi.org/10.1002/wene.160</a> .<br> 
+<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536.<a  href=" https://doi.org/10.1002/wene.160 "> https://doi.org/10.1002/wene.160</a> .<br> 
 [2] Hutchinson, J and Gibson, Emma and Phaweni, Thembani and Snyman, Dillon and Schmidt, Jeroen and Newman, Despina and Fhulufhelo, Ramphabana and Sam, Shalotte and Leope, Masilo and Makobela, Shireen et al. (2016), Utility Pricing Death Spiral. Mathematics in Industry Study Group, p. 53--71.<br>
-[3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,Volume 61, 2019, 100959, ISSN 0957-1787,<a href=" https://doi.org/10.1016/j.jup.2019.100959 "> https://doi.org/10.1016/j.jup.2019.100959</a> .<br>
+[3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,Volume 61, 2019, 100959, ISSN 0957-1787,<a  href=" https://doi.org/10.1016/j.jup.2019.100959 "> https://doi.org/10.1016/j.jup.2019.100959</a> .<br>
  [4] T. Beaufils, P. Pineaun, et al., Structures tarifaires et spirale de la mort: Etat des lieux des pratiques de tarification dans la distribution d'electricite residentielle, 2018, CIRANO, Centre interuniversitaire de recherche en analyse des organisation.<br>
-[5] Kenneth W. Costello, Ross C. Hemphill, Electric Utilities’ ‘Death Spiral’: Hyperbole or Reality?, The Electricity Journal, Volume 27, Issue 10, 2014, Pages 7-26, ISSN 1040-6190,<a href=" https://doi.org/10.1016/j.tej.2014.09.011 ">https://doi.org/10.1016/j.tej.2014.09.011</a>.<br>
+[5] Kenneth W. Costello, Ross C. Hemphill, Electric Utilities’ ‘Death Spiral’: Hyperbole or Reality?, The Electricity Journal, Volume 27, Issue 10, 2014, Pages 7-26, ISSN 1040-6190,<a  href=" https://doi.org/10.1016/j.tej.2014.09.011 ">https://doi.org/10.1016/j.tej.2014.09.011</a>.<br>
 [6] M. McPherson, M. Ismail, D. Hoornweg, M. Metcalfe, Planning for variable renewable energy and electric vehicle integration under varying degrees of decentralization: A case study in Lusaka, Zambia, Energy, Volume 151, 2018, Pages 332-346, ISSN 0360-5442,<a href="https://doi.org/10.1016/j.energy.2018.03.073
  ">https://doi.org/10.1016/j.energy.2018.03.073</a>.<br>
 [7] Mahmud, Khizir and Town, Graham E, A review of computer tools for modeling electric vehicle energy requirements and their impact on power distribution networks, Applied Energy, 172, p.337--359, 2016, Elsevier.<br>
