@@ -91,7 +91,7 @@ In Sacramento, California few consumers are engaged with PEVs, few have consider
  
 References:
 
-<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536. https://doi.org/10.1002/wene.160. <b>
+<p>[1] Ajanovic, A. (2015), The future of electric vehicles: prospects and impediments. WIREs Energy Environ, 4: 521-536. https://doi.org/10.1002/wene.160.</p> 
 [2] Hutchinson, J and Gibson, Emma and Phaweni, Thembani and Snyman, Dillon and Schmidt, Jeroen and Newman, Despina and Fhulufhelo, Ramphabana and Sam, Shalotte and Leope, Masilo and Makobela, Shireen et al. (2016), Utility Pricing Death Spiral. Mathematics in Industry Study Group, p. 53--71.</p>
 
 [3] T. Beaufils, P. Pineau, Assessing the impact of residential load profile changes on electricity distribution utility revenues under alternative rate structures, Utilities Policy,
