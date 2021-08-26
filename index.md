@@ -1,14 +1,17 @@
 ## Rwanda E-mobility report
 # This report is categorized in 5 categories including
 - Types of EVs
+<a  href=" https://docs.google.com/document/d/1yayHW7z920zcGqBm-RYMis4h0bo-XJ2wGvydnnw4bAQ/edit ">Read more</a>
+
 An electric vehicle is a vehicle that is powered by electric power - The powering can be partial or total. 
 Many studies do not mention electric motorbikes/ 2 wheelers when they are referring to electric vehicles.
 Here are the types of EVs: Battery Electric Vehicles (BEVs), Hybrid Electric Vehicles (HEVs), Plug-In Hybrid Electric Vehicles (PHEVs), Range Extenders (REXs), and Fuel Cell Vehicles (FCVs) [1].
 
 - Business models in SSA
-
+<a  href="https://docs.google.com/document/d/1PvKCvWaaIW8R7ebCtAwL3QLlUdLG6yHfffOichR_LrE/edit">Read more</a>
 
 - Utility death spiral
+<a  href="https://docs.google.com/document/d/1D1KrNDeght1h0OXqda2MmmldKLOi_UZu31UsXwjUM50/edit">Read more</a>
 Article: Utility pricing death spiral by A.J. Hutchinson, E. Gibson, and T. Phawen [2].
 Factors that determine how quickly the utility will lose customers to alternative energy sources:
 - strength of the economy
@@ -46,6 +49,7 @@ They share that it’s important of a  rate design to avoid facing a death spira
 “Finally, this article warns regulators that overprotecting utilities from the inevitable competition are not in the public interest. ”
 
 - Models for EV Integration
+<a  href="https://docs.google.com/document/d/1Ve-d4Fcfa54-rcIl_GJfZ8uWzJo7STte1vew8CNclTI/edit">Read more</a>
 Technical studies have been done to identify and solve EV grid integration issues-particularly in sub-Saharan Africa:
 Article: Planning for variable renewable energy and electric vehicle integration under varying degrees of decentralization: A case study in Lusaka, Zambia [6]. 
 The paper explores the potential benefits and disadvantages of EVs on the grid. One of them being Vehicle to Grid charging but it's too costly. Another interesting thing was this " a smart EV participation policy can reduce electricity costs for EV owners". The opportunities and challenges of large-scale electric vehicle adoption depend on their grid integration framework, of which there are several options: vehicle-to-home (V2H) charges through a home-based control scheme, vehicle-to-vehicle bidirectionally charges with the local grid according to a local aggregator's schedule, and vehicle-to-grid (V2G) bidirectionally charges with the power grid according to a system aggregator's schedule.
@@ -75,6 +79,9 @@ Additionally [7] highlights that different researchers revealed that the utility
 The solar energy system (integrating a solar PV system to a grid for the EV charging) as proposed in this research can lead to an efficient increase of national energy resource exploitation in the Rwanda, resulting in reliable, affordable, and sustainable energy access to all the citizens, and is known to be reliable and affordable and to have pillar sustainable development.
 
 - Barriers and challenges
+<a  href="https://docs.google.com/document/d/15tzaa5xlB8607IghbqvG4PEVJR2_TTZFIontVnQJGcM/edit">Read more</a>
+
+
 According to [8], here are some potential barriers and challenges to EV integration:
 Requires strong enabling policies, including tax incentives and subsidies
 Competing priorities for limited government funding in Sub-Saharan Africa
